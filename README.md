@@ -85,8 +85,14 @@ The application provides a menu-driven interface. Follow the prompts to:
 6. Create backups
 
 ## Sample Screenshot of working
+
+## Add student
  <img src="https://github.com/yash-24-dot/java-project-VITyarthi/blob/main/CCRM/data/screenshots/WhatsApp%20Image%202025-09-24%20at%2019.17.47_42450441.jpg">
+
+ ## List of all students
  <img src="https://github.com/yash-24-dot/java-project-VITyarthi/blob/main/CCRM/data/screenshots/WhatsApp%20Image%202025-09-24%20at%2019.23.14_8939f1f7.jpg">
+
+ ## Student Transcript
  <img src="https://github.com/yash-24-dot/java-project-VITyarthi/blob/main/CCRM/data/screenshots/WhatsApp%20Image%202025-09-24%20at%2019.23.15_a4dad03d.jpg">
 
 ## Enabling Assertions
